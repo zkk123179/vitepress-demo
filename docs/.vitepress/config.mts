@@ -3,8 +3,8 @@ import { nav, sidebar } from './relaConf'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/vitepress-demo-mondaylab/',
-  title: "little-sunflower", // 这里将会影响之后生成的根路径
+  base: '/vitepress-demo/', // 这里将会影响之后生成的根路径
+  title: "little-sunflower",
   description: "记录",
   themeConfig: {
     logo: '/avatar.jpg',
