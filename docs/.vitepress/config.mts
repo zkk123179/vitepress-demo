@@ -26,7 +26,7 @@ export default defineConfig({
     },
     // 页面元信息,显示文档最后更新时间（需 Git 支持）
     lastUpdated: {
-      text: '最后更新于~',
+      text: '最后更新',
       // formatOptions: {
       //   dateStyle: 'short'
       // }
