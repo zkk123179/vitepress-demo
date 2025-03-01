@@ -10,7 +10,7 @@ export default defineConfig({
     logo: '/avatar.jpg',
     nav,
     sidebar,
-    // 社交链接,添加 GitHub、Twitter 等图标链接
+    // 社交链接,添加 GitHub、Twitter等图标链接
     socialLinks: [
       { icon: 'github', link: 'https://github.com/your-repo' },
       { icon: 'twitter', link: 'https://twitter.com/your-account' }
